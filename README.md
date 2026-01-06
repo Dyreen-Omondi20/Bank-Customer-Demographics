@@ -1,0 +1,1 @@
+This project analyzes bank customer demographics and transaction data to This project provide insights into customer characteristics, behavior, and financial activity. The goal is to help the bank understand its customer base, identify trends, and enable data-driven decision-making for marketing, product offerings, and customer engagement.
